@@ -1,0 +1,23 @@
+.content ul{ 
+    margin: 0 auto;
+    text-align: center;
+    
+}
+ul{
+    margin: auto;
+}
+.main_page_a {
+    display: inline-block;
+    padding: 5%;
+    margin: 5%;
+    min-height: 25%;
+    min-width: 25%;
+    background-color: rgba(24, 160, 54, 0.767);
+    color:#eeeeeb;
+    font-size:large;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    list-style-type: none;
+    text-align: center;
+}
